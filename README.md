@@ -14,8 +14,8 @@ I sculpt mobile applications with Flutter and Dart, creating intuitive and engag
 
 ## 🛠️ My Atelier: Tech & Tools
 
-*   **Languages:** Dart, Java, TypeScript, React ([Learn More](https://www.codecademy.com/catalog/all))
-*   **Frameworks/Libraries:** Flutter, Tailwind CSS ([Flutter Docs](https://flutter.dev/docs), [Tailwind CSS Docs](https://tailwindcss.com/docs))
+*   **Languages:** Dart, Java, TypeScript ([Learn More](https://www.codecademy.com/catalog/all))
+*   **Frameworks/Libraries:** Flutter, React, Tailwind CSS ([Flutter Docs](https://flutter.dev/docs), [Tailwind CSS Docs](https://tailwindcss.com/docs))
 *   **Databases:** MongoDB, Firebase ([MongoDB Docs](https://www.mongodb.com/docs/), [Firebase Docs](https://firebase.google.com/docs))
 *   **Cloud Platforms:** GCP, Azure, Oracle Cloud Free Tier ([GCP](https://cloud.google.com/), [Azure](https://azure.microsoft.com/en-us/), [Oracle](https://www.oracle.com/cloud/free/))
 *   **Tools:** Git, Docker ([Git](https://git-scm.com/), [Docker](https://www.docker.com/))
