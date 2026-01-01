@@ -8,9 +8,9 @@
 
 ## Overview
 
-I'm a software developer passionate about blending technology and design to create meaningful solutions. My expertise spans **Web3**, **AI/ML**, **mobile development**, and **cloud infrastructure**. Through my studio **AnnnDromeda**, I craft experiences that push boundaries and solve real problems.
+I'm a software developer passionate about blending technology and design to create meaningful solutions. My expertise spans **Web3**, **AI/ML**, **mobile development**, and **cloud infrastructure**. 
 
-**Current Focus:** AI/ML integration, Large Language Models, and Web3 decentralized applications
+**Current Focus:** AI/ML integration, Small Language Models, and Web3 decentralized applications
 
 ---
 
@@ -19,7 +19,13 @@ I'm a software developer passionate about blending technology and design to crea
 ### **Core Languages**
 
 ```text
-Dart • Java • TypeScript
+Python • Dart • Java • TypeScript
+```
+
+### **AI/ML**
+
+```text
+TensorFlow • Hugging Face • LLMs
 ```
 
 ### **Frameworks & Libraries**
