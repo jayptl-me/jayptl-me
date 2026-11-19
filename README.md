@@ -1,16 +1,16 @@
 # Jay Patel
 
-## Software Developer | Web3 Enthusiast | AI Explorer
+## Software Engineer: Full-Stack, Mobile & Applied AI
 
-> Building the future with code, one line at a time
+> 31 shipped projects, three apps on Google Play, and small language models trained from scratch.
 
 ---
 
 ## Overview
 
-I'm a software developer passionate about blending technology and design to create meaningful solutions. My expertise spans **Web3**, **AI/ML**, **mobile development**, and **cloud infrastructure**. 
+I'm a full-stack engineer from Anand, Gujarat, shipping across TypeScript, Dart/Flutter, Python, and Solidity — mobile apps on Google Play, Next.js and Bun + Hono platforms, and self-hosted infrastructure I run like a homelab aquarium. Through my studio **AnnnDromeda**, I craft experiences that push boundaries and solve real problems.
 
-**Current Focus:** AI/ML integration, Small Language Models, and Web3 decentralized applications
+**Current Focus:** small language models (Vini & Tini), self-hosted AI/agent infrastructure, and shipping client systems end to end.
 
 ---
 
@@ -19,25 +19,25 @@ I'm a software developer passionate about blending technology and design to crea
 ### **Core Languages**
 
 ```text
-Python • Dart • Java • TypeScript
+TypeScript • Dart • Python • Java • Rust • Solidity
 ```
 
 ### **AI/ML**
 
 ```text
-TensorFlow • Hugging Face • LLMs
+PyTorch • BitNet b1.58 • TensorFlow • Hugging Face • Ollama • MCP
 ```
 
 ### **Frameworks & Libraries**
 
 ```text
-Flutter • React • Tailwind CSS
+Flutter • React Native • Next.js 16 • React • Angular • Astro • Tailwind CSS
 ```
 
 ### **Data & Backend**
 
 ```text
-MongoDB • Firebase
+Bun + Hono • MongoDB • PostgreSQL • Redis • Firebase
 ```
 
 ### **Cloud Platforms**
@@ -46,10 +46,16 @@ MongoDB • Firebase
 Google Cloud Platform • Microsoft Azure • Oracle Cloud
 ```
 
+### **Self-Hosted Infrastructure**
+
+```text
+Docker • Coolify • Traefik • MinIO • Render • Cloudflare
+```
+
 ### **Development Tools**
 
 ```text
-Git • Docker • VS Code
+Git • Bun • Turborepo • Docker • Figma • VS Code
 ```
 
 ---
@@ -61,7 +67,20 @@ Git • Docker • VS Code
 | **MongoDB Associate Developer** | [View Credential →](https://www.credly.com/badges/e445c28b-bf0d-4831-a5b5-8973e6fed459/public_url) |
 | **Google Cloud Application Development** | [View Certificate →](https://coursera.org/share/4acb493e7c02d7f38e2184bfa5794531) |
 | **Google UX Design Professional** | [View Certificate →](https://coursera.org/share/3d397faeeca0ed4c3f47cba4cbf47af7) |
-| **Hackathon Winner** (March 2025) | 1st Place - FinTech Stock/Crypto Prediction Tool |
+| **AWS Certified Cloud Practitioner** | - |
+| **Meta Certified Front-End Developer** | - |
+| **DataCamp SQL Associate** (Mar 2025) | - |
+| **Hackathon Winner** (CHARUSAT-Odoo 2025) | 1st Place, FinTech track - Ai-Vestor (650+ applicants, 75 teams) |
+| **Technical Leadership Award** (Apr 2025) | Excellence in technical communication and agile coordination |
+
+---
+
+## Live in Production
+
+- [Aviz Health](https://jayptl.me/projects/aviz-health) - healthcare ecosystem: three Flutter apps + Next.js admin + Bun + Hono API, live on Google Play
+- [Swalook CRM](https://jayptl.me/projects/swalook) - salon-management SaaS, Next.js 16 Turborepo, 35+ OpenAPI-documented endpoints
+- [Vini & Tini](https://jayptl.me/projects/vini-tini) - small language models trained from scratch; Vini's model card is on [Hugging Face](https://huggingface.co/jayptl-rq)
+- [jayptl.me](https://jayptl.me) - hand-written HTML/CSS/JS portfolio, zero frameworks
 
 ---
 
@@ -92,11 +111,12 @@ Exclusive space for forward-thinking developers and innovators
 
 ### **Active Platforms**
 
+- [**LinkedIn**](https://www.linkedin.com/in/jayptl-rq) - Professional network
+- [**Hugging Face**](https://huggingface.co/jayptl-rq) - Models and datasets
 - [**Daily.dev**](https://app.daily.dev/jayptl_rq) - Developer insights
 - [**Hashnode**](https://hashnode.com/@jayptl-rq) - Technical writing
 - [**Dev Community**](https://dev.to/jayptl_rq) - Code discussions
-- [**Medium**](https://medium.com/@jaytptl-rq) - In-depth articles
-- [**LinkedIn**](https://www.linkedin.com/in/jayptl-rq) - Professional network
+- [**Medium**](https://medium.com/@jayptl-rq) - In-depth articles
 - [**Reddit**](https://www.reddit.com/user/ReadyAd1016/) - Community engagement
 
 ---
@@ -124,25 +144,16 @@ Build → Test → Learn → Iterate → Ship
 
 ## Let's Connect
 
-Whether you're interested in **AI**, **Web3**, **mobile development**, or just excited about the future of technology, I'd love to collaborate.
-
-**Open to:**
-
-- Technical collaborations
-- Mentoring opportunities
-- Innovation discussions
-- Project partnerships
-
----
+Open to **full-time roles**, **contract builds**, and **forward deployed engineering** - a product taken from empty repo to shipped, or a rescue of one that stalled.
 
 ### **Contact**
 
-Ready to build something amazing together? Let's talk.
+Ready to build something amazing together? [Book 15 minutes](https://jayptl.me/book), or just say hi.
 
-[**LinkedIn**](https://www.linkedin.com/in/jayptl-rq) | [**Portfolio**](https://app.daily.dev/jayptl_rq) | [**Email**](mailto:contact@annndromeda.dev)
+[**LinkedIn**](https://www.linkedin.com/in/jayptl-rq) | [**Portfolio**](https://jayptl.me) | [**Email**](mailto:hello@jayptl.me)
 
 ---
 
 > "Don't sit around—start creating. Stick with it, chase what fires you up, and keep learning. That's how we build something amazing together."
 >
-> — Jay Patel, 2025
+> — Jay Patel, 2026
